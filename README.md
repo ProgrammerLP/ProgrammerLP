@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I am ProgrammerLP</h1>
 <h3 align="center">I have a passion for programming and I like to creating new cool things :)</h3>
 
+<h6>All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Proton](https://github.com/ValveSoftware/Proton)</h6>
+
 - 🔭 I’m currently working on **different projects**
 - 🌱 I’m currently learning **java-script & python**
 - 📫 How to reach me: **https://discord.gg/PXRZm3XQDb**
