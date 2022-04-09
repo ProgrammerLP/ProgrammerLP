@@ -1,6 +1,6 @@
 ### Hi there 👋, I am ProgrammerLP
 
-##I have a passion for programming and I like to creating new cool things :) 
+###I have a passion for programming and I like to creating new cool things :) 
 
 - 🔭 I’m currently working on different projects
 - 🌱 I’m currently learning java-script & python
