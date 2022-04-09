@@ -1,11 +1,10 @@
-### Hi there 👋, I am ProgrammerLP
+<h1 align="center">Hi there 👋, I am ProgrammerLP</h1>
+<h3 align="center">I have a passion for programming and I like to creating new cool things :)</h3>
 
-### I have a passion for programming and I like to creating new cool things :) 
-
-- 🔭 I’m currently working on different projects
-- 🌱 I’m currently learning java-script & python
-- 📫 How to reach me: https://discord.gg/PXRZm3XQDb
-- ⚡ Fun fact: I love Minecraft, Forza Horizon is the best racing game & I love it to release new updates 😉👍
+- 🔭 I’m currently working on **different projects**
+- 🌱 I’m currently learning **java-script & python**
+- 📫 How to reach me: **https://discord.gg/PXRZm3XQDb**
+- ⚡ Fun fact: **I love Minecraft, Forza Horizon is the best racing game & I love it to release new updates** 😉👍
 
 <!--
 **ProgrammerLP/ProgrammerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
