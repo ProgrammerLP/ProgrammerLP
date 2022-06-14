@@ -8,7 +8,9 @@ All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Pro
 - 📫 How to reach me: **[My Discord Server](https://discord.gg/PXRZm3XQDb)**
 - ⚡ Fun fact: **I love Minecraft, Forza Horizon is the best racing game & I love it to release new updates** 😉👍
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerlp&layout=compact&theme=dark"</p> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerlp&layout=compact&theme=dark"></p> 
+  
+  <p align="center">Details only concern the public repositories of the GitHub account, there are also other apps that are not uploaded to GitHub!</p>
 
 <!--
 **ProgrammerLP/ProgrammerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
