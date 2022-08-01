@@ -13,6 +13,7 @@ All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Pro
   <p align="center">Details only concern the public repositories of the GitHub account, there are also other apps that are not uploaded to GitHub!</p>
 
 <h2>News</h2>
+<h3>2022/08/01</h3>
 <p>I have a big change coming up.
 I want to make certain apps LTS apps.
 
