@@ -5,7 +5,7 @@ All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Pro
 
 - 🔭 I’m currently working on **different projects**
 - 🌱 I’m currently learning **java-script**
-- 📫 How to reach me: **[My Discord Server](https://discord.gg/PXRZm3XQDb)**
+- 📫 How to reach me: **[My Discord Server](https://adeptstack.vercel.app/discord)**
 - ⚡ Fun fact: **You're cool** 😉👍
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerlp&layout=compact&theme=dark"></p> 
@@ -13,15 +13,7 @@ All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Pro
   <p align="center">Details only concern the public repositories of the GitHub account, there are also other apps that are not uploaded to GitHub!</p>
 
 <h2>News</h2>
-<h3>ANNOUNCEMENT</h3>
-Some of you may have noticed that the server has a new name. This means that the server is no longer called ProgrammerLP, but Adeptstack, the new name under which the applications will be published.
-
-A resulting step is also the renaming of various applications, e.g.
-PLP-NoTas will now be called Notivity.
-Other apps will also be renamed.
-
-The changes will be implemented gradually with new updates in the near future.
-This change will not affect you, except that you will have to get used to the new name.
+---
 
 <!--
 **ProgrammerLP/ProgrammerLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
