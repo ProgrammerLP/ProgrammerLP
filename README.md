@@ -10,7 +10,7 @@ All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Pro
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerlp&layout=compact&theme=dark"></p> 
   
-  <p align="center">Details only concern the public repositories of the GitHub account, there are also other apps that are not uploaded to GitHub!</p>
+  <p align="center">Details only concern the public repositories of the GitHub account, there are also other private ones!</p>
 
 <h2>News</h2>
 ---
