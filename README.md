@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am ProgrammerLP</h1>
 
-<h3 align="center">Try out [Notivity](https://adeptstack.vercel.app/NotivityDownload) now :)</h3>
+## Try out [Notivity](https://adeptstack.vercel.app/NotivityDownload) now :)
 
 All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Proton](https://github.com/ValveSoftware/Proton)
 
