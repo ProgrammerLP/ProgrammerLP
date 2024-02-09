@@ -2,8 +2,6 @@
 
 ## Try out [Notivity](https://adeptstack.vercel.app/NotivityDownload) now :)
 
-All of my Apps can you run on Linux with [Wine](https://www.winehq.org/) or [Proton](https://github.com/ValveSoftware/Proton)
-
 - 🔭 I’m currently working on **different projects**
 - 🌱 I’m currently learning **java-script**
 - 📫 How to reach me: **[My Discord Server](https://adeptstack.vercel.app/discord)**
